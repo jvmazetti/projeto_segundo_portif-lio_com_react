@@ -12,4 +12,7 @@ export const LinkButton = styled.a`
   padding: 8px;
   display: inline-block;
   margin-top: 24px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
 `
